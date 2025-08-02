@@ -1,0 +1,22 @@
+body {
+    background-color: brown;
+}
+.text2 {
+    background-color: aqua;
+    text-align: center;
+}
+.text3 {
+        background-color: white;
+        width: 300px;
+        border: 2px solid black;
+        text-align: center;
+}
+
+.box{
+    background-color: bisque;
+}
+.text4 {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
